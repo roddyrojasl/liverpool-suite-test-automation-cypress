@@ -18,8 +18,7 @@ Los casos desarrollados fueron los siguientes:
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
-cd roddyrojas-liverpool-test
+git clone https://github.com/roddyrojasl/liverpool-suite-test-automation-cypress.git
 ```
 
 ### Paso 2: Instalar Node.js (obviar si ya esta instalado)
