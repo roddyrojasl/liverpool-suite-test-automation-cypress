@@ -1,0 +1,31 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Archivos generados por Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# IDE y editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compilados
+dist/
+build/
+*.tsbuildinfo
