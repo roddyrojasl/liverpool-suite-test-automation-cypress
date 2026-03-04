@@ -1,7 +1,7 @@
 # Suite de pruebas automatizadas – El Puerto de Liverpool
 
-Este suite de pruebas se desarollad con Cypres como herramietna de automatizacion, con metdologia BDD para lenguaje de ngocio y patron de diseño POM. 
-Los casos desarrolladps fueron los siguientes:
+Este suite de pruebas se desarollo con Cypress como herramietna de automatizacion, con metodologia BDD para lenguaje de negocio y patron de diseño POM. 
+Los casos desarrollados fueron los siguientes:
 
 - Creacion de usuario
 - Búsqueda de productos
